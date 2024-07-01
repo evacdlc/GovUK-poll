@@ -35,3 +35,4 @@ This repository contains an analysis of the YouGov MRP poll showing projected re
 - **Margin of Victory:** Analyze the margin of victory for each constituency to understand the competitiveness of different areas.
 - **Demographic Impact:** Incorporate demographic data to explore how factors like age, education, and income influence voting patterns.
 - **Geospatial Analysis:** Create detailed maps to visualize the geographic distribution of party support and identify regional strongholds.
+- **Interactive Map:** If provided with a map, I would create an interactive map displaying predicted results by constituency, including predicted margins for each area.
